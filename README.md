@@ -16,6 +16,7 @@ Youtube канал antibiotic.ru [https://www.youtube.com/channel/UCRaFg-ePUEE-W
 
 Twitter МАКМАХ [https://twitter.com/IACMAC1997](https://twitter.com/IACMAC1997)
 
+Facebook МАКМАХ [Facebook МАКМАХ](https://www.facebook.com/%D0%9C%D0%90%D0%9A%D0%9C%D0%90%D0%A5-IACMAC-375209236213319/)
 
 ## CityMap
 Application for pinning cities and pie-charts on map [here](https://iacmac-web-tools.github.io/CityMap/)
