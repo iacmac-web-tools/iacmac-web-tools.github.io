@@ -31,6 +31,7 @@ Application for pinning cities and pie-charts on map [here](https://iacmac-web-t
 Telegram bot for getting information about antimicrobial resistance data. Click [here](https://web.telegram.org/#/im?p=@mapAntibiotic_bot)
 
 ## Онлайн руководства
-Руководство по импорту ПЦР данных в Млаб [здесь](https://iacmac-web-tools.github.io/MlabImportPCR/)
 
-Руководство по контролю контролей в Млаб [здесь](https://iacmac-web-tools.github.io/MlabcontrolOrganisms/)
+- Руководство по импорту ПЦР данных в Млаб [здесь](https://iacmac-web-tools.github.io/MlabImportPCR/)
+
+- Руководство по контролю контролей в Млаб [здесь](https://iacmac-web-tools.github.io/MlabControlOrganisms/)
