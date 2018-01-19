@@ -32,8 +32,8 @@ Telegram bot for getting information about antimicrobial resistance data. Click 
 
 ## Онлайн руководства
 
-- Руководство по импорту ПЦР данных в Млаб [здесь](https://iacmac-web-tools.github.io/MlabImportPCR/)
+- Руководство по импорту ПЦР данных в Млаб [здесь](https://iacmac-web-tools.github.io/MlabImportPCR/) или [здесь](https://iacmac-web-tools.github.io/MlabImportPCR/ReadMe.html)
 
-- Руководство по контролю контролей в Млаб [здесь](https://iacmac-web-tools.github.io/MlabControlOrganisms/)
+- Руководство по контролю контролей в Млаб [здесь](https://iacmac-web-tools.github.io/MlabControlOrganisms/) или [здесь](https://iacmac-web-tools.github.io/MlabControlOrganisms/README.html)
 
 - Руководство по работе с тестами в Млаб [здесь](https://iacmac-web-tools.github.io/MlabWorkingWithTest) или [здесь](https://iacmac-web-tools.github.io/MlabWorkingWithTest/index.html)
