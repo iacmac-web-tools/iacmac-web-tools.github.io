@@ -3,22 +3,34 @@ IACMAC web tools and services
 
 ## Web
 AMRmap [http://map.antibiotic.ru/](http://map.antibiotic.ru/)
+
 SNPTAb [http://snptab.antibiotic.ru:3353](http://snptab.antibiotic.ru:3353)
+
 SNPTAb Test page [http://snptab.antibiotic.ru:3354](http://snptab.antibiotic.ru:3354)
+
 AIDA [http://192.168.203.29:8092](http://192.168.203.29:8092)
+
 Specialist [http://192.168.203.29:8094](http://192.168.203.29:8094)
 
 ## Социальные сети
 Интерактивный квест для практикующих врачей [экспертымакмах.рф](http://xn--80aantckctkho5byeva.xn--p1ai/)
+
 Школа антимикробной терапии [https://ab.rumedo.ru/obuchenie/](https://ab.rumedo.ru/obuchenie/)
+
 КМАХ [http://www.antibiotic.ru/cmac/](http://www.antibiotic.ru/cmac/)
+
 Сайт главного внештатного специалиста [http://www.antibiotic.ru/minzdrav/](http://www.antibiotic.ru/minzdrav/)
 
 Youtube канал МАКМАХ [https://www.youtube.com/channel/UCkQnQDWeTvuvXFDOdZXmr-Q](https://www.youtube.com/channel/UCkQnQDWeTvuvXFDOdZXmr-Q)
+
 Instagram МАКМАХ [https://www.instagram.com/iacmac1997/](https://www.instagram.com/iacmac1997/)
+
 Twitter МАКМАХ [https://twitter.com/IACMAC1997](https://twitter.com/IACMAC1997)
+
 Facebook МАКМАХ [https://www.facebook.com/iacmac/](https://www.facebook.com/iacmac/)
+
 Вконтакте МАКМАХ: [https://vk.com/iacmac](https://vk.com/iacmac)
+
 Telegram МАКМАХ: [https://t.me/iacmac](https://t.me/iacmac)
 
 ## CityMap
