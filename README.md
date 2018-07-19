@@ -3,6 +3,9 @@ IACMAC web tools and services
 
 ## Web
 AMRmap [http://map.antibiotic.ru/](http://map.antibiotic.ru/)
+AMRmap ENG [http://amrmap.com](http://amrmap.com)
+
+AMRseq [http://amrseq.ru](http://amrseq.ru)
 
 SNPTAb [http://snptab.antibiotic.ru:3353](http://snptab.antibiotic.ru:3353)
 
@@ -13,11 +16,13 @@ AIDA [http://192.168.203.29:8092](http://192.168.203.29:8092)
 Specialist [http://192.168.203.29:8094](http://192.168.203.29:8094)
 
 ## Социальные сети
+Сайт МАКМАХ [http://www.iacmac.ru/iacmac/](http://www.iacmac.ru/iacmac/)
+
+КМАХ [http://www.antibiotic.ru/cmac/](http://www.antibiotic.ru/cmac/)
+
 Интерактивный квест для практикующих врачей [экспертымакмах.рф](http://xn--80aantckctkho5byeva.xn--p1ai/)
 
 Школа антимикробной терапии [https://ab.rumedo.ru/obuchenie/](https://ab.rumedo.ru/obuchenie/)
-
-КМАХ [http://www.antibiotic.ru/cmac/](http://www.antibiotic.ru/cmac/)
 
 Сайт главного внештатного специалиста [http://www.antibiotic.ru/minzdrav/](http://www.antibiotic.ru/minzdrav/)
 
