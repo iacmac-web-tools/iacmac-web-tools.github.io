@@ -52,3 +52,5 @@ Telegram bot for getting information about antimicrobial resistance data. Click 
 - Руководство по контролю контролей в Млаб [здесь](https://iacmac-web-tools.github.io/MlabControlOrganisms/) или [здесь](https://iacmac-web-tools.github.io/MlabControlOrganisms/README.html)
 
 - Руководство по работе с тестами в Млаб [здесь](https://iacmac-web-tools.github.io/MlabWorkingWithTest) или [здесь](https://iacmac-web-tools.github.io/MlabWorkingWithTest/index.html)
+
+- Руководство по заполнению карт пациентова в Млаб [здесь](https://iacmac-web-tools.github.io/MlabPatientCardEdiing) или [здесь](https://iacmac-web-tools.github.io/MlabPatientCardEdiing/index.html)
