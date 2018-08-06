@@ -12,6 +12,10 @@ SNPTAb [http://snptab.antibiotic.ru:3353](http://snptab.antibiotic.ru:3353)
 
 SNPTAb Test page [http://snptab.antibiotic.ru:3354](http://snptab.antibiotic.ru:3354)
 
+SNPTPae [http://192.168.203.29:8096](http://192.168.203.29:8096)
+
+SNPTPaeAPI Test page [http://192.168.203.29:8095/swagger/](http://192.168.203.29:8095/swagger/)
+
 AIDA [http://192.168.203.29:8092](http://192.168.203.29:8092)
 
 Specialist [http://192.168.203.29:8094](http://192.168.203.29:8094)
