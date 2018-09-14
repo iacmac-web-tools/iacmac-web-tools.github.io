@@ -2,7 +2,7 @@
 IACMAC web tools and services
 
 ## Web
-AMRhub [https://iacmac-web-tools.github.io/amr-hub/](https://iacmac-web-tools.github.io/amr-hub/)
+AMRhub [http://amrhub.ru](http://amrhub.ru)
 
 AMRmap [http://map.antibiotic.ru/](http://map.antibiotic.ru/)
 
