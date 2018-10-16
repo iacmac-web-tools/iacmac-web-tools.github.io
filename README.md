@@ -2,6 +2,8 @@
 IACMAC web tools and services
 
 ## Web
+AMRhub [http://amrbook.ru](http://amrbook.ru)
+
 AMRhub [http://amrhub.ru](http://amrhub.ru)
 
 AMRmap [http://map.antibiotic.ru/](http://map.antibiotic.ru/)
@@ -18,9 +20,7 @@ SNPTPae [http://192.168.203.29:8096](http://192.168.203.29:8096)
 
 SNPTPaeAPI Test page [http://192.168.203.29:8095/swagger/](http://192.168.203.29:8095/swagger/)
 
-AIDA [http://192.168.203.29:8092](http://192.168.203.29:8092)
-
-Specialist [http://192.168.203.29:8094](http://192.168.203.29:8094)
+Specialist [http://185.189.12.63:8090](http://185.189.12.63:8090)
 
 ## Социальные сети
 Сайт МАКМАХ [http://www.iacmac.ru/iacmac/](http://www.iacmac.ru/iacmac/)
