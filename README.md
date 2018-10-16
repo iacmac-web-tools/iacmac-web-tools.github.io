@@ -2,7 +2,7 @@
 IACMAC web tools and services
 
 ## Web
-AMRhub [http://amrbook.ru](http://amrbook.ru)
+AMRbook [http://amrbook.ru](http://amrbook.ru)
 
 AMRhub [http://amrhub.ru](http://amrhub.ru)
 
