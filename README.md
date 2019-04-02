@@ -2,9 +2,10 @@
 IACMAC web tools and services
 
 ## Web
-AMRbook [http://amrbook.ru](http://amrbook.ru)
 
 AMRhub [http://amrhub.ru](http://amrhub.ru)
+
+AMRbook [http://amrbook.ru](http://amrbook.ru)
 
 AMRmap [http://map.antibiotic.ru/](http://map.antibiotic.ru/)
 
@@ -12,17 +13,21 @@ AMRmap ENG [http://amrmap.com](http://amrmap.com)
 
 AMRseq [http://amrseq.ru](http://amrseq.ru)
 
-SNPTAb [http://snptab.antibiotic.ru:3353](http://snptab.antibiotic.ru:3353)
+SNPT [http://snpt.antibiotic.ru/](http://snpt.antibiotic.ru/)
 
-SNPTAb Test page [http://snptab.antibiotic.ru:3354](http://snptab.antibiotic.ru:3354)
+SNPTAb [http://snpt.antibiotic.ru:9002](http://snpt.antibiotic.ru:9002)
+SNPTAb Test page [http://snpt.antibiotic.ru:8002/swagger](http://snpt.antibiotic.ru:8002/swagger)
 
-SNPTPae [http://192.168.203.29:8096](http://192.168.203.29:8096)
-
-SNPTPaeAPI Test page [http://192.168.203.29:8095/swagger/](http://192.168.203.29:8095/swagger/)
+SNPTPae [http://snpt.antibiotic.ru:9001](http://snpt.antibiotic.ru:9001)
+SNPTPaeAPI Test page [http://snpt.antibiotic.ru:8001/swagger/](http://snpt.antibiotic.ru:8001/swagger/)
 
 Specialist [http://185.189.12.63:8090](http://185.189.12.63:8090)
+Specialist [http://specialist.antibiotic.ru](http://specialist.antibiotic.ru)
 
 ## Социальные сети
+
+Сайт ANTIBIOTIC [http://www.antibiotic.ru/](http://www.antibiotic.ru/)
+
 Сайт МАКМАХ [http://www.iacmac.ru/iacmac/](http://www.iacmac.ru/iacmac/)
 
 КМАХ [http://www.antibiotic.ru/cmac/](http://www.antibiotic.ru/cmac/)
