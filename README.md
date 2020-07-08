@@ -24,6 +24,8 @@ SNPTPaeAPI Test page [http://snpt.antibiotic.ru:8001/swagger/](http://snpt.antib
 Specialist [http://185.189.12.63:8090](http://185.189.12.63:8090)
 Specialist [http://specialist.antibiotic.ru](http://specialist.antibiotic.ru)
 
+CMAC GA API [https://api.cmac-journal.ru/docapi/index.html](https://api.cmac-journal.ru/docapi/index.html)
+
 ## Социальные сети
 
 Сайт ANTIBIOTIC [http://www.antibiotic.ru/](http://www.antibiotic.ru/)
